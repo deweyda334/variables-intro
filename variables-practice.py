@@ -23,6 +23,8 @@ favorite_villan = 'joker'
 greeting = 'Good morning'
 print(school)
 print(favorite_villan)
+print(greeting)
+
 
 
 # Part 2 / Working with Numbers (Numeric Data)
