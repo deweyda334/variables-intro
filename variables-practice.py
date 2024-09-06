@@ -21,6 +21,8 @@
 school = 'Career Tech'
 favorite_villan = 'joker'
 greeting = 'Good morning'
+print(school)
+print(favorite_villan)
 
 
 # Part 2 / Working with Numbers (Numeric Data)
