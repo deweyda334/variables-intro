@@ -34,6 +34,7 @@ print(greeting)
 # Use the print function to print the value of one of three variables you created in Part 2
 my_age = 26
 conversion_factor = 2.54
+ book_price = 20.99
 
 # Part 3 / Working with the print ( ) Function
 # Create three different variables, one for each piece of data described below
