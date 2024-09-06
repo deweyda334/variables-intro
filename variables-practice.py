@@ -46,10 +46,10 @@ print(book_price)
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
-my_dog = 4
+dog_age = 4
 my_house = 9000
 book_pages = 6000
-print(my_dog)
+print(dog_age)
 print(my_house)
 print(book_pages)
 
