@@ -8,13 +8,13 @@
 ## Questions
 
 1. In Python, what symbol do you use to assign a value to a variable?
-    -  fgsfgs
+    -  "="
 
 2. In plain English, explain the difference between **string data** data and **numeric data**.
-    -  Answer here
+    -  string/text should be the default data type for most data values, not numeric.
 
 
 3. List 2 - 3 guidelines to keep in mind when naming your Python variables.
     -  Write the name of your Python variable in lowercase
-    -  Answer here
-    -  Answer here
+    -  like age
+    -  or number as in num
